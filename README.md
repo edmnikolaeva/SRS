@@ -14,6 +14,11 @@
   
 ---
 
+- 👉[Test Plan](https://github.com/edmnikolaeva/test_plan)
+- 👉[Test Report](https://github.com/edmnikolaeva/test_report) 
+- 👉[User Manuals](https://github.com/edmnikolaeva/user_manual)
+
+---
 
 ### NOTES 
 
