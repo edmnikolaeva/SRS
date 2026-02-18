@@ -1,7 +1,6 @@
 # Software Requirement Specification (SRS) Examples
 - This repository provides structured examples of Software Requirement Specifications (SRS)
 - Including functional and non-functional requirements, data dictionary, business rules, and glossary
-- Demonstrating practices in requirements documentation, traceability, and completeness for both web and mobile applications
   
 ---
 
