@@ -66,7 +66,7 @@
 **Domain**: Capsule hotel booking (self-service web flow)
 
 - 👉 [Functional Test Plan & Execution](https://github.com/edmnikolaeva/test_plan)  
-- 👉 [Test Report (ПМИ](https://github.com/edmnikolaeva/test_report)  
+- 👉 [Test Report](https://github.com/edmnikolaeva/test_report)  
 - 👉 [User Manual](https://github.com/edmnikolaeva/user_manual)
 
 </td>
